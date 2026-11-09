@@ -1,3 +1,2 @@
-print("Hello World")
-print("Hello World")
-print("Hello World")
+x = input("Enter to-do : ")
+print("you gave",x)
